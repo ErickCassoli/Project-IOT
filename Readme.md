@@ -41,7 +41,7 @@ Utilize o método GET no endpoint `sensor-data/` para enviar os dados do sensor.
 
 ```json
 {
-  "valor": n
+  "value": n
 }
 ```
 
