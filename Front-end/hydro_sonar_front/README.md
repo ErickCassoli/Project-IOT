@@ -5,7 +5,7 @@ Para iniciar o programa, siga estes passos:
 1. Você pode executar os arquivos start_program.bat para Windows ou start\_program.sh para linux caso ocorra algum erro na execução desses arquivos poderá fazer o passo a passo a seguir (Esses arquivos estão no diretorio Front-end).
 
     ```
-    #o arquivo em linux deverá ser executado no tereminarl seguinte comando 
+    # O arquivo em linux deverá ser executado no tereminarl seguinte comando 
     
     echo "y" | ./start_program.sh
     ```
@@ -13,7 +13,7 @@ Para iniciar o programa, siga estes passos:
     ```
     # E para o windows é só digitar o nome do arquivo  
     
-    start_program.sh
+    start_program.bat
     ```
 Certifique que está na pasta Front-end para executar os comandos 
 
