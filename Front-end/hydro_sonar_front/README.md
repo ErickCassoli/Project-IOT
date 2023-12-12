@@ -4,6 +4,19 @@ Para iniciar o programa, siga estes passos:
 
 1. Você pode executar os arquivos start_program.bat para Windows ou start\_program.sh para linux caso ocorra algum erro na execução desses arquivos poderá fazer o passo a passo a seguir (Esses arquivos estão no diretorio Front-end).
 
+    ```
+    #o arquivo em linux deverá ser executado no tereminarl seguinte comando 
+    
+    echo "y" | ./start_program.sh
+    ```
+    
+    ```
+    # E para o windows é só digitar o nome do arquivo  
+    
+    start_program.sh
+    ```
+Certifique que está na pasta Front-end para executar os comandos 
+
 1. **Acesso à Pasta do Projeto:**
    Abra o terminal e navegue até a pasta onde está localizado o projeto. Use o comando `cd` para entrar em cada diretório necessário. Por exemplo:
    ```
@@ -26,6 +39,17 @@ Para iniciar o programa, siga estes passos:
    ```
 
 Estes passos devem permitir que você inicie o programa com sucesso. Certifique-se de estar no diretório correto e de ter todas as dependências necessárias instaladas antes de iniciar o programa.
+
+## Instalação do aplicativo
+
+Este aplicativo deverá ser instalado no celular para poder visualizar o Front-end desenvolvido. (Somente para Android o link)
+
+[Expo Go](https://play.google.com/store/search?q=expo+go&c=apps "Clique aqui e instale o aplicativo no seu celular")
+
+## Iniciar o aplicativo no celular
+
+Para poder iniciar o programa desenvolvido pelo Expo Go , você deverá clicar em "Scan QR code" e aproximar a camera do seu celular para o QR code no terminal que você executou o arquivo start_program.sh / start_program.bat ou realizou o ultimo comando "npx expo start".
+
 
 ## Tela Inicial
 
