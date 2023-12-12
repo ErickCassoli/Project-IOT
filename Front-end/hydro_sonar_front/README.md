@@ -7,8 +7,6 @@ Para iniciar o programa, siga estes passos:
 1. **Acesso à Pasta do Projeto:**
    Abra o terminal e navegue até a pasta onde está localizado o projeto. Use o comando `cd` para entrar em cada diretório necessário. Por exemplo:
    ```
-   cd Project-IOT
-   cd Front-end
    cd hydro_sonar_front
    cd hydrosonar
    ```
