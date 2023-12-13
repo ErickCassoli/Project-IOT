@@ -1,21 +1,22 @@
-
 # Telas do Projeto de Controle de Nível de Água - IOT API
+
 Para iniciar o programa, siga estes passos:
 
-1. Você pode executar os arquivos start_program.bat para Windows ou start\_program.sh para linux caso ocorra algum erro na execução desses arquivos poderá fazer o passo a passo a seguir (Esses arquivos estão no diretorio Front-end).
+1. Você pode executar os arquivos `start_program.bat` para Windows ou `start_program.sh` para Linux. Caso ocorra algum erro na execução desses arquivos, poderá seguir o passo a passo a seguir (esses arquivos estão no diretório Front-end).
 
-    ```
-    # O arquivo em linux deverá ser executado no tereminarl seguinte comando 
-    
-    echo "y" | ./start_program.sh
-    ```
-    
-    ```
-    # E para o windows é só digitar o nome do arquivo  
-    
-    start_program.bat
-    ```
-Certifique que está na pasta Front-end para executar os comandos 
+   ```
+   # No Linux, execute o seguinte comando no terminal
+   
+   echo "y" | ./start_program.sh
+   ```
+   
+   ```
+   # No Windows, basta digitar o nome do arquivo
+   
+   start_program.bat
+   ```
+
+Certifique-se de estar na pasta Front-end para executar os comandos.
 
 1. **Acesso à Pasta do Projeto:**
    Abra o terminal e navegue até a pasta onde está localizado o projeto. Use o comando `cd` para entrar em cada diretório necessário. Por exemplo:
@@ -40,16 +41,15 @@ Certifique que está na pasta Front-end para executar os comandos
 
 Estes passos devem permitir que você inicie o programa com sucesso. Certifique-se de estar no diretório correto e de ter todas as dependências necessárias instaladas antes de iniciar o programa.
 
-## Instalação do aplicativo
+## Instalação do Aplicativo
 
-Este aplicativo deverá ser instalado no celular para poder visualizar o Front-end desenvolvido. (Somente para Android o link)
+Este aplicativo deverá ser instalado no celular para poder visualizar o Front-end desenvolvido (somente para Android).
 
 [Expo Go](https://play.google.com/store/search?q=expo+go&c=apps "Clique aqui e instale o aplicativo no seu celular")
 
-## Iniciar o aplicativo no celular
+## Iniciar o Aplicativo no Celular
 
-Para poder iniciar o programa desenvolvido pelo Expo Go , você deverá clicar em "Scan QR code" e aproximar a camera do seu celular para o QR code no terminal que você executou o arquivo start_program.sh / start_program.bat ou realizou o ultimo comando "npx expo start".
-
+Para poder iniciar o programa desenvolvido pelo Expo Go, você deverá clicar em "Scan QR code" e aproximar a câmera do seu celular para o QR code no terminal onde você executou o arquivo `start_program.sh` / `start_program.bat` ou realizou o último comando `npx expo start`.
 
 ## Tela Inicial
 
@@ -59,8 +59,6 @@ A tela inicial exibe informações vitais sobre o sistema de controle de nível 
 - **Gráfico de Consumo:** Apresenta informações sobre o consumo por hora.
 - **Ilustração do Estado da Válvula:** Representa se a válvula está ligada (ON) ou desligada (OFF).
 - **Barra de Navegação:** Permite a alternância entre as abas "Alertas" e "Início".
-
-
 
 ## Tela de Alertas
 
