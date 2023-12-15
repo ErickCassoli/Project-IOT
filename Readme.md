@@ -17,6 +17,10 @@
 
 [API de Envio de Dados](https://apisenai.pythonanywhere.com/sensor-data/)
 
+## Link do Vídeo projeto
+
+[Vídeo IIOT](https://drive.google.com/drive/folders/10fEcPd1x5D0VyRkIOydqQmj31pKcUWsI?usp=sharing)
+
 ## Descrição do Projeto
 
 O projeto consiste em uma API desenvolvida utilizando o Django Rest Framework no ambiente PythonAnywhere. A aplicação é focada no monitoramento e cálculo do volume de água em uma caixa d'água, sendo direcionada a ambientes que demandam controle preciso do armazenamento hídrico, como residências, empresas ou locais de cultivo. No caso específico do cliente, a aplicação será utilizada para monitorar o nível de água em uma caixa d'água em um trailer.
