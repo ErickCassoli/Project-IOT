@@ -71,8 +71,7 @@ GET /processed-data/
 ```
 | Dados | Tipo   | Descrição             |
 | --------- | ------ | -------------------- |
-| `percent` | `int`  | |
+| `percent` | `int`  | -------------------- |
 | `liters` | `int` | -------------------- |
 | `valve_state` | `bolean` | -------------------- |
-
 
